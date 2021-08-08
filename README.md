@@ -4,6 +4,11 @@
 ----
 ### Career
 * Soongsil University (2016.03 ~ )
+* Soongsil University IT Department Administration Office (2019.03 ~ 2020.02)
+* Soongsil University Career Employment Center (2020.03 ~ 2021.08)
+* Completion of 'Computer Vision and Deep Learning using OpenCV' at Fast Campus (2021.01 ~ 2021.04)
+* Acquired TOPCIT Level 2 (2021.05)
+* Completion of 'Business Management Experience School' at DB Group (2021.06)
 ### Stack
 * C/C++
 * Java
