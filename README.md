@@ -1,11 +1,8 @@
 ### Who i am 👋
-##### Hello, My name is Hajun. I am a student majoring in software engineering. I was a student with no confidence in development. But recently, I have a dream of becoming an Android developer, so I have been studying development with passion. I found interest in development a little late, but please look forward to it!
+##### Hello, My name is Hajun. I'm studying Android Programming. I was a student with no confidence in development. But recently, I have a dream of becoming an Android developer, so I have been studying development with passion. I found interest in development a little late, but please look forward to it!
 ##### My current interests are Android and Computer Vision.
 ----
 ### Career
-* Soongsil University (2016.03 ~ )
-* Soongsil University IT Department Administration Office (2019.03 ~ 2020.02)
-* Soongsil University Career Employment Center (2020.03 ~ 2021.08)
 * Completion of 'Computer Vision and Deep Learning using OpenCV' at Fast Campus (2021.01 ~ 2021.04)
 * Acquired TOPCIT Level 2 (2021.05)
 ### Stack
