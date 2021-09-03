@@ -4,9 +4,10 @@
 ##### >I have completed 'Computer Vision and Deep Learning using OpenCV'at Fast Campus (2021.01 ~ 2021.04). Also, I acquired TOPCIT Level 2 (2021.05).
 ----
 ### Stack
-* C/C++
-* Java
 * Android
+* Java
+* Kotlin
+* C/C++
 * OpenCV
 ### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=didtmdgus100)](https://solved.ac/didtmdgus100/)
