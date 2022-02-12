@@ -2,7 +2,7 @@
 ###### Hello, My name is Hajun. I'm studying Android Programming. I was a student with no confidence in development. But recently, I have a dream of becoming an Android developer, so I have been studying development with passion. I found interest in development a little late, but please look forward to it!
 ----
 #### >My major is Computer Science and current interests are Android and Data Science.
-#### >I want to be a Android developer who creates services based on data.
+#### >I want to be a Android developer who creates services based on Data.
 #### >I acquired TOPCIT Level2(2021.05) and TOEIC SPEAKING Level7(2020.09)
 #### >A list of additional IT learning certificates outside of university classes.
 ###### 1) 컴퓨터비전과 딥러닝 - 패스트캠퍼스(2021.04)
