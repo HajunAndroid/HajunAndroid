@@ -22,6 +22,7 @@
 * Kotlin
 * C/C++
 * OpenCV
+* MySQL
 ### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=didtmdgus100)](https://solved.ac/didtmdgus100/)
 ### My Tech Blog
