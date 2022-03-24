@@ -1,5 +1,5 @@
 ### Who i am 👋
-###### Hello, My name is Hajun. I'm studying Android Programming. I was a student with no confidence in development. But recently, I have a dream of becoming an Android developer, so I have been studying development with passion. I found interest in development a little late, but please look forward to it!
+###### Hello. I'm studying Android Programming. I was a student with no confidence in development. But recently, I have a dream of becoming an Android developer, so I have been studying development with passion. I found interest in development a little late, but please look forward to it!
 ----
 #### >My major is Computer Science and current interests are Android and Data Science.
 #### >I want to be a Android developer who creates services based on Data.
